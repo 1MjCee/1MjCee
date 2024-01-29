@@ -1,16 +1,31 @@
-### Hi there 👋
+## Hi there, I am Julius Matheka Charles 👋 
 
-<!--
-**cjmatheka/cjmatheka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me: 
++ 📊 Skilled in `Data Analysis`, `visualization`, and `Machine Learning`. 
++ 💼 Passionate about data-driven decision-making, software development, and Machine Learning.  
++ 🌍 Based in Nairobi, Kenya.  
+ 
+## What I'm Working On  
++ 💻 Building a `chatbot` for a charity foundation and `recommender system` for an online store, 
++ 📈 Working on mastering automation of data related tasks, 
++ 🌐 Mastering `software engineering`, 
++ 🚀 Collaborating on open-source projects.
 
-Here are some ideas to get you started:
+## My Tech Stack: Programming Languages  
++ 💻 Python  
++ 💻 C 
++ 💻 SQL  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Tech Stack: Data Analysis & Visualization Tools  
++ 📊 Tableau  
++ 📊 Python's Matplotlib
++ 📊 Python's Seaborn
+
+## My Tech Stack: Databases  
++ 🗄️ MySQL  
++ 🗄️ MongoDB 
+
+## 📧 Contact me on: 
++ Email: cjmatheka@gmail.com 
++ Mobile: +254719537813 
+
