@@ -12,11 +12,11 @@
 + 🚀 Collaborating on open-source projects.
 
 ## My Tech Stack              
-Programming Languages       |Data Analysis & Visualization Tools           Databases
+Programming Languages       |Data Analysis & Visualization Tools           |Databases
 ----------------------------|-----------------------------------------------------------------
-+ 💻 Python                 |+ 📊 Tableau                                  + 🗄️ MySQL
-+ 💻 C                      |+ 📊 Python's Matplotlib                      + 🗄️ PostgreSQL
-+ 💻 SQL                    |+ 📊 Python's Seaborn                         + 🗄️ MongoDB 
++ 💻 Python                 |+ 📊 Tableau                                  |+ 🗄️ MySQL
++ 💻 C                      |+ 📊 Python's Matplotlib                      |+ 🗄️ PostgreSQL
++ 💻 SQL                    |+ 📊 Python's Seaborn                         |+ 🗄️ MongoDB 
 
 
 ## My Tech Stack: Data Analysis & Visualization Tools  
