@@ -13,6 +13,7 @@
 
 ## My Tech Stack              
 Programming Languages       Data Analysis & Visualization Tools           Databases
+---------------------------------------------------------------------------------------------
 + 💻 Python                 + 📊 Tableau                                  + 🗄️ MySQL
 + 💻 C                      + 📊 Python's Matplotlib                      + 🗄️ PostgreSQL
 + 💻 SQL                    + 📊 Python's Seaborn                         + 🗄️ MongoDB 
