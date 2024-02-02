@@ -11,10 +11,12 @@
 + 🌐 Mastering `software engineering`, 
 + 🚀 Collaborating on open-source projects.
 
-## My Tech Stack: Programming Languages  
-+ 💻 Python  
-+ 💻 C 
-+ 💻 SQL  
+## My Tech Stack              
+Programming Languages       Data Analysis & Visualization Tools           Databases
++ 💻 Python                 + 📊 Tableau                                  + 🗄️ MySQL
++ 💻 C                      + 📊 Python's Matplotlib                      + 🗄️ PostgreSQL
++ 💻 SQL                    + 📊 Python's Seaborn                         + 🗄️ MongoDB 
+
 
 ## My Tech Stack: Data Analysis & Visualization Tools  
 + 📊 Tableau  
