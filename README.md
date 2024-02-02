@@ -12,26 +12,11 @@
 + 🚀 Collaborating on open-source projects.
 
 ## My Tech Stack              
-Programming Languages       |Data Analysis & Visualization Tools           |Databases
-----------------------------|-----------------------------------------------------------------
-+ 💻 Python                 |+ 📊 Tableau                                  |+ 🗄️ MySQL
-+ 💻 C                      |+ 📊 Python's Matplotlib                      |+ 🗄️ PostgreSQL
-+ 💻 SQL                    |+ 📊 Python's Seaborn                         |+ 🗄️ MongoDB 
-
 Programming Languages | Data Analysis & Visualization Tools | Databases
 ----------------------|--------------------------------------|----------
 💻 Python              | 📊 Tableau                           | 🗄️ MySQL
 💻 C                   | 📊 Python's Matplotlib               | 🗄️ PostgreSQL
 💻 SQL                 | 📊 Python's Seaborn                  | 🗄️ MongoDB
-
-## My Tech Stack: Data Analysis & Visualization Tools  
-+ 📊 Tableau  
-+ 📊 Python's Matplotlib
-+ 📊 Python's Seaborn
-
-## My Tech Stack: Databases  
-+ 🗄️ MySQL  
-+ 🗄️ MongoDB 
 
 ## 📧 Contact me on: 
 + Email: cjmatheka@gmail.com 
