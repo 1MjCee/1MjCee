@@ -1,4 +1,4 @@
-## Hi there, I am Julius Matheka Charles 👋 
+## Hi there, I am Julius Charles 👋 
 
 ## About Me: 
 + 📊 Skilled in `Data Analysis`, `visualization`, and `Machine Learning`. 
