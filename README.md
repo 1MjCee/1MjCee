@@ -1,13 +1,9 @@
 ## Hi there, I am Julius Charles 👋  
-## About Me: 
+## About Me and What I'm Working On: 
 + 📊 Skilled in `Data Analysis`, `visualization`, and `Machine Learning`. 
 + 💼 Passionate about data-driven decision-making, software development, and Machine Learning.  
-+ 🌍 Based in Nairobi, Kenya.  
- 
-## What I'm Working On  
-+ 💻 Building a `chatbot` for a charity foundation and `recommender system` for an online store, 
-+ 📈 Working on mastering automation of data related tasks, 
-+ 🌐 Mastering `software engineering`, 
++ 📈 Building data pipeline/automation that incorporates data collection, data storage, ETL, data analysis/modelling, and data visualization, 
++ 🌐 Building `software engineering` projects, including Airbnb clone and an Online Gig Marketplace 
 + 🚀 Collaborating on open-source projects.
 
 ## My Tech Stack              
