@@ -1,5 +1,4 @@
-## Hi there, I am Julius Charles 👋 
-
+## Hi there, I am Julius Charles 👋  
 ## About Me: 
 + 📊 Skilled in `Data Analysis`, `visualization`, and `Machine Learning`. 
 + 💼 Passionate about data-driven decision-making, software development, and Machine Learning.  
