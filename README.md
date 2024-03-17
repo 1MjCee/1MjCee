@@ -7,10 +7,10 @@
 + 🚀 Collaborating on open-source projects.
 
 ## My Tech Stack              
-Programming Languages | Data Analysis & Visualization Tools | Databases | Software Engineering Tools
-----------------------|--------------------------------------|----------|----------------------------
-💻 Python              | 📊 Tableau                           | 🗄️ MySQL       |  Python Django
-💻 C                   | 📊 Python's Matplotlib               | 🗄️ PostgreSQL  |  Consoles
-💻 SQL                 | 📊 Python's Seaborn                  | 🗄️ MongoDB     |  HTML/CSS/Bootstrap
-💻 JavaScript          | 📊 IBM Cognos                        |                |  Networking       
+Programming Languages | Data Science Tools | Databases | Software Engineering Tools
+----------------------|-------------------------------|----------|----------------------------
+💻 Python              | 📊 Tableau    | 🗄️ MySQL       |  Python Django
+💻 C                   | 📊 Python     | 🗄️ PostgreSQL  |  Consoles
+💻 SQL                 | 📊 ML Tools   | 🗄️ MongoDB     |  HTML/CSS/Bootstrap
+💻 JavaScript          | 📊 IBM Cognos |                |  Networking       
 
