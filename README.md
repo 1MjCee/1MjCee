@@ -6,11 +6,5 @@
 + 🌐 Building `software engineering` projects, including Airbnb clone and an Online Gig Marketplace 
 + 🚀 Collaborating on open-source projects.
 
-## My Tech Stack              
-Programming Languages | Data Science Tools | Databases | Software Engineering Tools
-----------------------|-------------------------------|----------|----------------------------
-💻 Python              | 📊 Tableau    | 🗄️ MySQL       |  Python Django
-💻 C                   | 📊 Python     | 🗄️ PostgreSQL  |  Consoles
-💻 SQL                 | 📊 ML Tools   | 🗄️ MongoDB     |  HTML/CSS/Bootstrap
-💻 JavaScript          | 📊 IBM Cognos |                |  Networking       
+[![GitHub Streak](https://streak-stats.demolab.com/?user=1MjCee)](https://git.io/streak-stats)
 
